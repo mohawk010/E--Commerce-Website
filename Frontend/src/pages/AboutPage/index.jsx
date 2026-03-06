@@ -6,7 +6,7 @@ export default function AboutPage() {
       <section className="max-w-6xl mx-auto py-16 px-6">
         {/* Heading */}
         <h1 className="text-4xl font-bold text-center mb-4">Ecom Farm</h1>
-        <p className="text-center text-lg text-gray-600 mb-10">Designed & Developed by <span className="font-semibold text-orange-600">CodeWithKrishna</span></p>
+        <p className="text-center text-lg text-gray-600 mb-10">Designed & Developed by <span className="font-semibold text-orange-600">Mohit Verma</span></p>
 
         {/* Farm Stack */}
         <div className="bg-orange-50 border border-orange-200 rounded-xl p-6 mb-12 shadow-sm">
@@ -51,7 +51,7 @@ export default function AboutPage() {
             <FaUserTie /> About The Developer
           </h2>
           <p className="text-gray-700 max-w-2xl mx-auto">
-            This platform is designed by <span className="font-semibold">CodeWithKrishna</span> with the
+            This platform is designed by <span className="font-semibold">Mohit Verma</span> with the
             goal of helping buyers and sellers connect digitally through a scalable E-Commerce system.
           </p>
         </div>
