@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"]
+      // Add paths for other aliases defined in vite.config.js
+    }
+  },
+  "include": ["src/**/*"]
+}

@@ -1,34 +1,6 @@
-# Virtual Environment
-.venv/
-venv/
-env/
-
-# Python cache
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.Python
-
-# Environment variables (secrets - never commit these!)
+node_modules
+venv
+__pycache__
 .env
+.env.local
 .env.*
-*.env
-
-# VS Code
-.vscode/
-
-# Byte-compiled / optimized / DLL files
-*.py[cod]
-
-# Distribution / packaging
-dist/
-build/
-*.egg-info/
-
-# Logs
-*.log
-
-# OS files
-.DS_Store
-Thumbs.db
