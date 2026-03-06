@@ -112,8 +112,8 @@ uvicorn app:app --reload
 
 ---
 
-## 🧑‍💻 Developer
+## 🧑💻 Developer
 
-Designed & Developed by **CodeWithKrishna**
+Designed & Developed by **Mohit Verma**
 
-If you love this project, ⭐ Star it & Contribute!
+
