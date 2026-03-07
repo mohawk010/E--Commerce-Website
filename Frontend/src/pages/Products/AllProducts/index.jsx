@@ -104,6 +104,7 @@ const Card=({data,fetchAllProducts})=>{
             <h2 className="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">CATEGORY</h2>
             <h1 className="title-font text-lg font-medium text-gray-900 mb-3">{data.category}</h1>
             <p className="leading-relaxed mb-3">{data.title}</p>
+            <p className="font-semibold text-lg text-red-500 mb-2">₹{data.price}</p>
 
                     <div className="mb-3 flex items-center justify-between">
                         <p className="text-sm text-zinc-500">

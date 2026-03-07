@@ -18,6 +18,7 @@ async def allProductsService(userId:str):
             "_id": str(product['_id']),
             "created_at":product['created_at'],
             "image":product['images'][0]['image_url'],
+            "price": product['price'],
         })
     return all_products
     pass

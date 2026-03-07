@@ -1,7 +1,7 @@
-export const Categies =Object.freeze({
-    'JWELLERY':'JWELLERY',
-    'TSHIRT':'TSHIRT',
-    'PICTURES':'PICTURES',
-    'PAJAMA':'PAJAMA',
-    'SAREE':'SAREE',
+export const Categies = Object.freeze({
+    'Electronics':'Electronics',
+    'Fashion':'Fashion',
+    'Accessories':'Accessories',
+    'Home':'Home & Kitchen',
+    'Beauty':'Beauty & Personal Care'
 })
