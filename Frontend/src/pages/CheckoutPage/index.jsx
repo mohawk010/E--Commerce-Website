@@ -77,7 +77,7 @@ const CheckoutPage = () => {
             key: ENVConstants.VITE_APP_RAZORPAY_KEY_ID,
             amount: data.amount,
             currency: "INR",
-            name: 'Code With Krishna',
+            name: 'Mohit Verma',
             description: 'E Com Payments',
             order_id: data.id,
              "callback_url": `${ENVConstants.VITE_APP_BACKEND_URI}/checkout/callback`,
